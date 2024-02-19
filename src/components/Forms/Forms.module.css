@@ -1,0 +1,18 @@
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 40px);
+}
+
+.forms{
+    text-align: center;
+}
+.inp{
+
+    margin: 0 0 20px 15px;
+}
+.error{
+    color: red;
+}
